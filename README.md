@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm MUHAMMAD AJNAS!  <br>🚀 DevOps Intern at 2Cloud Solutions  <br>🔧 Passionate about automation, CI/CD pipelines, and cloud infrastructure  <br>💻 Currently working with AWS, Docker, and Magento  <br>🌱 Learning more about Kubernetes and infrastructure as code  <br>🔗 Let's connect: www.linkedin.com/in/muhammad-ajnas
+👋 Hi, I'm MUHAMMAD AJNAS!  <br>🚀 Jr. DevOps Engineer at 2Cloud Solutions  <br>🔧 Passionate about automation, CI/CD pipelines, and cloud infrastructure  <br>💻 Currently working with AWS, Docker, and Magento  <br>🌱 Learning more about Kubernetes and infrastructure as code  <br>🔗 Let's connect: www.linkedin.com/in/muhammad-ajnas
 
 
 ## 🌐 Socials:
